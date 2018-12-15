@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d0d0d1</color>
+    <color name="colorPrimaryDark">#01002d</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="default_page_blue">#cfcfcf</color>
+    <color name="zatrek_blue">#01002d</color>
+</resources>
